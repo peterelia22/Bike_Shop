@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "995288488208",
+    "project_id": "bike-shop-a9e2d",
+    "storage_bucket": "bike-shop-a9e2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995288488208:android:56e3ad53203edcff4a6d95",
+        "android_client_info": {
+          "package_name": "com.example.bikeshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz1w7_D_R12TppjFJ3YG6Il6AbEvyYXYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
